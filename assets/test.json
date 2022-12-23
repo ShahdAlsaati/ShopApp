@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+  {
+    "source": {
+      "id": "bloomberg",
+      "name": "Bloomberg"
+    },
+    "author": null,
+    "title": "U.S. Stock Futures Pare Gain; Treasuries Slide: Markets Wrap - Bloomberg",
+    "description": null,
+    "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=96a363fe-6ca5-11ec-a4dd-466f6857746d&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wMS0wMy91LXMtZnV0dXJlcy1nYWluLWFzLXRyYWRlcnMtbXVsbC1vbWljcm9uLWltcGFjdC1tYXJrZXQtd3JhcA==",
+    "urlToImage": null,
+    "publishedAt": "2022-01-03T14:11:40Z",
+    "content": "To continue, please click the box below to let us know you're not a robot."
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Jordan Valinsky, CNN Business",
+    "title": "Little Caesars' Hot-N-Ready pizza no longer costs $5 - CNN",
+    "description": "Not even Little Caesars is immune from price increases: The chain's signature $5 Hot-N-Ready pizza now costs 11% more.",
+    "url": "https://www.cnn.com/2022/01/03/business/little-caesars-price-increase/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220103125641-little-caesars-hot-n-ready-super-tease.jpeg",
+    "publishedAt": "2022-01-03T13:38:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Amelia Lucas",
+    "title": "Chipotle adds meatless chorizo to its menu for limited time - CNBC",
+    "description": "Chipotle is launching plant-based chorizo nationwide, starting Monday, and available for a limited time.",
+    "url": "https://www.cnbc.com/2022/01/03/chipotle-adds-meatless-chorizo-to-its-menu-for-limited-time.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106930342-1629375782158-Chipotle_new_Plant_Based_Chorizo.jpg?v=1629375864",
+    "publishedAt": "2022-01-03T13:05:01Z",
+    "content": "Chipotle Mexican Grill is kicking off 2022 with a new menu item: meatless chorizo.\r\nPlant-based chorizo is the company's first new meatless protein option since it added tofu-based sofritas in 2014.\r… [+1542 chars]"
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Jennifer Pattison Tuohy",
+    "title": "Kohler's PerfectFill tech can fill your tub for you - The Verge",
+    "description": "Kohler announced new smart kitchen and bathroom faucets at CES 2022, and the $8,000 Stillness smart bath finally arrives.",
+    "url": "https://www.theverge.com/2022/1/3/22858257/kohler-ces-2022-smart-bathroom-perfectfill",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/-PKBqCpHr1-DorNrtpiLqad4rjs=/0x0:3000x1571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23132132/KOHLER_PerfectFill_aad89908_rgb.jpg",
+    "publishedAt": "2022-01-03T13:00:00Z",
+    "content": "The company announced availability of its smart bath tech at CES 2022 (yes, including that $8,000 tub)\r\nKohlers PerfectFill technology can run your bath for you.\r\nImage: Kohler\r\nKohlers long-touted P… [+5002 chars]"
+  },
+  {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "Liza Lin",
+    "title": "Tesla Opens Showroom in China’s Xinjiang, Region at Center of U.S. Genocide Allegations - The Wall Street Journal",
+    "description": "Maker of electric cars risks wading into human-rights dispute that has entangled Western companies",
+    "url": "https://www.wsj.com/articles/tesla-opens-showroom-in-chinas-xinjiang-region-at-center-of-u-s-genocide-allegations-11641214630",
+    "urlToImage": "https://images.wsj.net/im-460738/social",
+    "publishedAt": "2022-01-03T12:57:00Z",
+    "content": "Tesla Inc. has opened a new dealership in Xinjiang, the remote region where Chinese authorities are carrying out a campaign of forcible assimilation against religious minorities that has become a pub… [+281 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Times"
+    },
+    "author": "Alexandra Stevenson",
+    "title": "China Evergrande Suspends Trading Shares in Hong Kong - The New York Times",
+    "description": "The world’s most indebted property developer provided no details on the suspension, but it suggested an announcement “containing inside information” would come soon.",
+    "url": "https://www.nytimes.com/2022/01/03/business/china-evergrande-shares-hong-kong.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/01/03/world/03CHINA-EVERGRANDE-01/03CHINA-EVERGRANDE-01-facebookJumbo.jpg",
+    "publishedAt": "2022-01-03T12:54:43Z",
+    "content": "Trading in the shares of the indebted property developer China Evergrande Group were suspended on the Hong Kong Stock Exchange Monday morning as the company raced to deliver apartments to millions of… [+913 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Tesla reports record number of vehicle deliveries in Q4 at 308600 - CNBC Television",
+    "description": "CNBC's Phil LeBeau joins 'Squawk Box' to report Tesla's latest fourth-quarter delivery figures, which crushed analysts' estimates at 308,600.",
+    "url": "https://www.youtube.com/watch?v=Do8b-v7kCdo",
+    "urlToImage": "https://i.ytimg.com/vi/Do8b-v7kCdo/maxresdefault.jpg",
+    "publishedAt": "2022-01-03T12:45:07Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Reuters",
+    "title": "AT&T, Verizon CEOs reject US request for 5G deployment delay - CNN",
+    "description": "The chief executives of AT&T and Verizon Communications rejected a request to delay the planned Jan. 5 introduction of new 5G wireless service over aviation safety concerns but offered to temporarily adopt new safeguards.",
+    "url": "https://www.cnn.com/2022/01/02/business/5g-deployment-verizon-att/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220102140052-att-5g-tower-restricted-super-tease.jpg",
+    "publishedAt": "2022-01-03T12:44:00Z",
+    "content": "(CNN)The chief executives of AT&amp;T and Verizon Communications rejected a request to delay the planned Jan. 5 introduction of new 5G wireless service over aviation safety concerns but offered to te… [+2752 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Lauren Thomas",
+    "title": "Nike shares rise after Guggenheim names it best idea for 2022, citing metaverse play - CNBC",
+    "description": "Nike shares rose Monday after Guggenheim named the sneaker retailer its \"best idea\" for 2022.",
+    "url": "https://www.cnbc.com/2022/01/03/guggenheim-names-nike-its-best-idea-in-2022-citing-metaverse-play.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106992336-1640112910207-gettyimages-1360219476-dsc07858_5a248483-06a1-4658-9d39-72cb4d9ac52d.jpeg?v=1641213560",
+    "publishedAt": "2022-01-03T12:43:50Z",
+    "content": "Nike shares rose about 1% in extended trading on Monday after Guggenheim named the retailer its \"best idea\" for 2022.\r\nAnalyst Robert Drbul said in a note to clients that Nike's already dominant mark… [+969 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Peter Schacknow",
+    "title": "Stocks making the biggest moves in the premarket: Tesla, McDonald's, Nio and more - CNBC",
+    "description": "The stocks making the biggest moves in premarket trading include Tesla, McDonald's, Nio, and more.",
+    "url": "https://www.cnbc.com/2022/01/03/stocks-making-the-biggest-moves-in-the-premarket-tesla-mcdonalds-nio-and-more.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/105497108-1539117385272rts212my.jpg?v=1539117481",
+    "publishedAt": "2022-01-03T12:37:58Z",
+    "content": "Take a look at some of the biggest movers in the premarket:\r\nTesla (TSLA) Tesla surged 7.4% in the premarket following news that it delivered 308,600 vehicles during the fourth quarter, well above th… [+2260 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Times"
+    },
+    "author": "Erin Woo",
+    "title": "What to Know Ahead of Day 7 of Elizabeth Holmes Trial Deliberations - The New York Times",
+    "description": "Ms. Holmes, the founder of the blood-testing start-up Theranos, is accused of deceiving investors, patients and advertisers.",
+    "url": "https://www.nytimes.com/2022/01/03/business/elizabeth-holmes-theranos-trial.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/01/03/business/03holmes-deliberations/03holmes-deliberations-facebookJumbo.jpg",
+    "publishedAt": "2022-01-03T12:27:57Z",
+    "content": "It is not unusual for deliberations in white-collar trials to be lengthy, especially in complex fraud cases in which defendants are charged with multiple counts that span multiple years. In 2007, a j… [+1203 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MarketWatch"
+    },
+    "author": "Barbara Kollmeyer",
+    "title": "Stock picking in 2022? Goldman Sachs says these are the companies that should be on your radar. - MarketWatch",
+    "description": "Critical information for the U.S. trading day",
+    "url": "https://www.marketwatch.com/story/stock-picking-in-2022-goldman-sachs-says-these-are-the-companies-that-should-be-on-your-radar-11641211896",
+    "urlToImage": "https://images.mktw.net/im-460745/social",
+    "publishedAt": "2022-01-03T12:11:00Z",
+    "content": "Starting as they mean to go on? On the first day of trading for 2022, stocks are looking decidedly upbeat.Thats even amid signs some investors remain split down the middle after a dazzling 2021 that … [+6399 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Gul Tuysuz, CNN",
+    "title": "Turkey's inflation soars to 36%, setting a new record for Erdogan era - CNN",
+    "description": "Turkey's annual rate of inflation has hit a 19-year high as a currency collapse sends the cost of imports soaring.",
+    "url": "https://www.cnn.com/2022/01/03/economy/turkey-inflation-soars/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220103101507-turkey-inflation-soars-file-122921-super-tease.jpg",
+    "publishedAt": "2022-01-03T12:01:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Sam Meredith",
+    "title": "U.S. 10-year Treasury yield extends gains above 1.5% as investors monitor data, auctions - CNBC",
+    "description": "It comes at a time when the highly contagious omicron Covid variant is driving a new wave of infections around the world.",
+    "url": "https://www.cnbc.com/2022/01/03/us-bonds-10-year-treasury-yield-above-1point5percent-amid-data-auctions.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106972429-16364108192021-11-08t215634z_1516855190_rc2jqq9dbnhe_rtrmadp_0_usa-stocks.jpeg?v=1636410879",
+    "publishedAt": "2022-01-03T11:39:56Z",
+    "content": "U.S. Treasury yields rose on Monday as market participants closely monitored soaring cases of the omicron Covid variant.\r\nThe yield on the benchmark 10-year Treasury note rose 7.6 basis points to 1.5… [+1282 chars]"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "Tom Krisher",
+    "title": "$29,000 for an average used car? Would-be buyers are aghast - Associated Press",
+    "description": "DETROIT (AP) — A couple of months ago, a woman paid a visit to Jeff Schrier's used car lot in Omaha, Nebraska. She was on a tight budget, she said, and was desperate for a vehicle to commute to work.",
+    "url": "https://apnews.com/article/business-lifestyle-prices-2c8831b6f2d6c3228e4ad88f55c73a0c",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/46521e41377746a784cf504ef62206fc/3000.jpeg",
+    "publishedAt": "2022-01-03T11:30:33Z",
+    "content": "DETROIT (AP) A couple of months ago, a woman paid a visit to Jeff Schriers used car lot in Omaha, Nebraska. She was on a tight budget, she said, and was desperate for a vehicle to commute to work. \r\n… [+7845 chars]"
+  },
+  {
+    "source": {
+      "id": "nbc-news",
+      "name": "NBC News"
+    },
+    "author": "The Associated Press",
+    "title": "Snow storms and pandemic ground flights, delay holiday’s end - NBC News",
+    "description": "Wintry weather combined with the pandemic to frustrate air travelers whose return flights home from the holidays were canceled or delayed in the first days of",
+    "url": "https://www.nbcnews.com/news/us-news/snow-storms-pandemic-ground-flights-delay-holidays-end-rcna10661",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-01/220103-denver-international-airport-al-0507-1c92e9.jpg",
+    "publishedAt": "2022-01-03T10:28:00Z",
+    "content": "Wintry weather combined with the pandemic to frustrate air travelers whose return flights home from the holidays were canceled or delayed in the first days of the new year.\r\nMore than 2,600 U.S. flig… [+3491 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Jeanny Yu",
+    "title": "Alibaba Drops Amid Signal Some Investors May Be Poised to Sell - Yahoo Finance",
+    "description": "(Bloomberg) -- Alibaba Group Holding Ltd. shares dropped the most in more than three weeks amid concerns that some investors may be about to cut stakes after...",
+    "url": "https://finance.yahoo.com/news/alibaba-drops-amid-signal-investors-102616393.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/p5pw6KITCv06djgSkoa9GQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/775444d9e02b7e852d721695a68cb0a6",
+    "publishedAt": "2022-01-03T10:26:16Z",
+    "content": "(Bloomberg) -- Alibaba Group Holding Ltd. shares dropped the most in more than three weeks amid concerns that some investors may be about to cut stakes after swapping their U.S. holdings for Hong Kon… [+1552 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "BlueCity Holdings Limited",
+    "title": "BlueCity Holdings Limited Announces Receipt of a Preliminary Non-Binding Proposal to Acquire the Company - Yahoo Finance",
+    "description": "BEIJING, Jan. 03, 2022 (GLOBE NEWSWIRE) -- BlueCity Holdings Limited ( “BlueCity” or the “Company”) (NASDAQ: BLCT), a leading online LGBTQ platform, today...",
+    "url": "https://finance.yahoo.com/news/bluecity-holdings-limited-announces-receipt-090000907.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/vkozHtv6hWQJZDYk8bZ46Q--~B/aD03MDt3PTIxMTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/globenewswire.com/f7cf6bbb04331d042484b3e239cc854b",
+    "publishedAt": "2022-01-03T09:00:00Z",
+    "content": "BEIJING, Jan. 03, 2022 (GLOBE NEWSWIRE) -- BlueCity Holdings Limited ( BlueCity or the Company) (NASDAQ: BLCT), a leading online LGBTQ platform, today announced that its board of directors (the Board… [+10972 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "Oil begins new year with gains, Omicron worries linger - Reuters",
+    "description": "Oil rose towards $79 a barrel on Monday supported by tight supply and hopes of further demand recovery in 2022 spurred in part by a view that the Omicron coronavirus variant is unlikely to significantly dampen the outlook.",
+    "url": "https://www.reuters.com/markets/commodities/oil-starts-new-year-positive-note-pandemic-worries-curb-gains-2022-01-03/",
+    "urlToImage": "https://www.reuters.com/resizer/2MnMcqMncbf_y9pZ9ZT0TZgmpCg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4HT6O6IHVZKTLNW3CHN7BNWMBU.jpg",
+    "publishedAt": "2022-01-03T07:40:00Z",
+    "content": "LONDON, Jan 3 (Reuters) - Oil rose towards $79 a barrel on Monday supported by tight supply and hopes of further demand recovery in 2022 spurred in part by a view that the Omicron coronavirus variant… [+1786 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CoinDesk"
+    },
+    "author": "Omkar Godbole",
+    "title": "Salvadoran President Bukele Expects Bitcoin to Reach $100K This Year - CoinDesk",
+    "description": "El Salvador adopted bitcoin as an official currency last year.",
+    "url": "https://www.coindesk.com/markets/2022/01/03/salvadoran-president-bukele-expects-bitcoin-to-reach-100k-this-year/",
+    "urlToImage": "https://www.coindesk.com/resizer/cx983BkJmAn45UqbPOtq2ngigZw=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/coindesk/P5D5HPH5E5GQDLJAO4E3BXEUZE.jpeg",
+    "publishedAt": "2022-01-03T06:59:00Z",
+    "content": "According to Jeff Dorman, chief investment officer at Arca Funds, thematic investing is expected to drive most gains in 2022. From an investment standpoint, Arca remains thematically focused on DeFi,… [+135 chars]"
+  }
+]
+}
